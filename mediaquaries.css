@@ -11,7 +11,7 @@
       height: fit-content;
     }
   }
-  
+ 
   @media screen and (max-width: 1200px) {
     #desktop-nav {
       display: none;
@@ -101,4 +101,3 @@
       text-align: justify;
     }
   }
-  
